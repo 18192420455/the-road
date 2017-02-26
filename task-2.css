@@ -1,0 +1,162 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: darkgray;
+    font-size:14px;
+    color: black;
+    text-decoration: none;
+}
+h2,h3,p,li{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h3{
+    color:dimgray;
+  
+}
+p{
+    line-height: 2em;
+}
+header a{
+  text-decoration:none;
+    color:white;
+  
+}
+header{
+    height:60px;
+    background-color:#333333;
+}
+header img{
+    padding-top: 10px;
+    height: 40px;
+    padding-left:50px;
+}
+header ul{
+    float:right;
+   margin-top: 10px;
+}
+header li{
+    float: left;
+    width:100px;
+}
+section{
+    background-color: white;
+    margin:22px;
+    padding:30px;
+}
+section ul{
+    margin-left: 30px;
+}
+section ol{
+    margin-left: 50px;
+}
+footer{
+    height: 70px;
+    background-color:black;
+}
+footer p{
+    color:white;
+    text-align:center;
+    line-height: 70px;
+}
+blockquote{
+    width:100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    border: 1px solid dimgray;
+    text-align: center;
+    padding: 10px;
+}
+blockquote img{
+    
+    width: 80px;
+}
+blockquote p{
+    line-height: 1em;
+    margin-top:0px;
+    margin-bottom: 10px
+}
+.start{
+    text-indent: 2em;
+}
+#list{
+    list-style:none;
+}
+table{
+    width: 1200px;
+    border: 1px solid black;
+    caption-side: top;
+   border-spacing: 0px; 
+    margin: 0 auto;
+    
+}
+th{
+    background-color: black;
+    color: white;
+}
+th,td{
+    border:1px solid lightgray;
+    height:25px;
+}
+.add{
+    background-color: gray;
+}
+form{
+    display: table;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+form textarea{
+    width: 500px;
+    height:100px;
+}
+div.tablerow{
+    display: table-row;
+}
+div.tablerow p{
+    display: table-cell;
+    padding: 8px;
+}
+div.tablerow p:first-child{
+    text-align: right;
+}
+p.lighter{
+    color:gray;
+}
+div.send{
+
+    background-color: darkturquoise;
+    width:1200px;
+    height:40px;
+    margin:0 auto;
+    text-align: center;
+    border-radius: 10px;
+
+}
+div.send p{
+    font-size:18px;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
